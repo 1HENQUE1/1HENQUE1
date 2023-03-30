@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, my name is Henrique! 🧔🏾‍♂️
+---
+### About me 🦄
 
-<!--
-**1HENQUE1/1HENQUE1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👽 • I'm from Portugal, born November 2001;
 
-Here are some ideas to get you started:
+🎖️ • Main hobbies: Gym, Going out w/friends, Coding, Learning and Gaming;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+❤️ • Founded a group called The Native Club, focused on connecting people and sharing projects;
+
+---
+### I'm a Software Developer! 👨🏾‍💻
+
+🏆 • I thrive to be the best version of myself every day.
+
+🧠 • I'm always ready to learn and improve!
