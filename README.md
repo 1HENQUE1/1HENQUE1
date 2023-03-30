@@ -9,7 +9,7 @@
 ❤️ • Founded a group called The Native Club, focused on connecting people and sharing projects;
 
 ---
-### • I'm a Software Developer! 👨🏾‍💻
+### • I'm a Software Developer/Web Design! 👨🏾‍💻
 
 🏆 • I thrive to be the best version of myself every day.
 
