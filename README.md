@@ -14,3 +14,5 @@
 🏆 • I thrive to be the best version of myself every day.
 
 🧠 • I'm always ready to learn and improve!
+
+📱 • I currently work as a freelancer and in the army.
